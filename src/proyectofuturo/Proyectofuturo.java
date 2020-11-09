@@ -18,7 +18,7 @@ public class Proyectofuturo {
         // TODO code application logic here
         System.out.println("Estudiante " + args[0] + " " + args[1] + " : ");
         
-
+            //HOLA ME LLAMO AARON TITOS
     }
     
         public static String veredicto(String[] args) {
