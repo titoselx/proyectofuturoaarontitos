@@ -21,7 +21,7 @@ public class Proyectofuturo {
             //HOLA ME LLAMO AARON TITOS
     }
     
-        public static String veredicto(String[] args) {
+        private static String veredicto(String[] args) {
         String valor1 = args[0];
         String valor2 = args[1];
         if (valor1.equals(valor2)) {
